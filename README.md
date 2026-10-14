@@ -1,5 +1,5 @@
 # Luis Gomez
-## Programador y Estudiante de [Cuatrovientos](www.cuatrovientos.org)
+## Programador y Estudiante de [Cuatrovientos](https//www.cuatrovientos.org)
 
 <!--
 Here are some ideas to get you started:
